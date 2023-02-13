@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Rainbowmindd
-- 👀 I’m interested in drawing and technology
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Rainbowmindd/Rainbowmindd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my name is Martyna!
+Currently learning - C and C++
+CS student at AGH Poland
