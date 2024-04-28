@@ -1,3 +1,3 @@
 Hi, my name is Martyna!
-Currently learning - C and C++
+Currently learning Java and C++
 CS student at AGH Poland
