@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Martyna 🤍</h1> 
 
 # 🤍 About Me:
-I'm a third-year Computer Science student at AGH University. Passionate about technology, creativity, and continuous learning, I have a diverse set of skills and experiences that I love to share and grow.<br><br>🖥️ Technical Skills<br>- **Programming Languages**: C++, Java, C, C#, Python <br>- **Web Development**: JavaScript, TypeScript, PHP, MySQL<br>- **Currently Learning**: React, Django  <br><br>🎨 Creative Involvements<br>- **Graphic Design**: Active graphic designer with IAESTE AGH, contributing to various projects and events.<br>  - **WAR (Wiosenna Akcja Rekrutacyjna 2024)**: Part of the organizing team.<br>  - **Lvl Up Your Skills 2024**: Currently involved in the organization.<br>  - **Event Designs**: Created designs for various occasions, including New Year's Eve.<br><br>🌸 Other Interests<br>- **Music**: I play the piano and sing.<br>- **Art**: I enjoy drawing, both traditionally and digitally.<br>- **Literature**: Passionate about reading, especially fantasy, young adult, and classic literature.<br>
+I'm a third-year Computer Science student at AGH University. Passionate about technology, creativity, and continuous learning, I have a diverse set of skills and experiences that I love to share and grow.<br><br>🖥️ Technical Skills<br>- **Programming Languages**: C++, Java, C, C#, Python <br>- **Web Development**: JavaScript, TypeScript, PHP, MySQL<br>- **Currently Learning**: React, Django, PostgreSQL  <br><br>🎨 Creative Involvements<br>- **Graphic Design**: Active graphic designer with IAESTE AGH, contributing to various projects and events.<br>  - **WAR (Wiosenna Akcja Rekrutacyjna 2024)**: Part of the organizing team.<br>  - **Lvl Up Your Skills 2024**: Currently involved in the organization.<br>  - **Event Designs**: Created designs for various occasions, including New Year's Eve.<br><br>🌸 Other Interests<br>- **Music**: I play the piano and sing.<br>- **Art**: I enjoy drawing, both traditionally and digitally.<br>- **Literature**: Passionate about reading, especially fantasy, young adult, and classic literature.<br>
 
 
 # 🤍 Tech Stack
@@ -16,6 +16,7 @@ I'm a third-year Computer Science student at AGH University. Passionate about te
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) 
