@@ -1,13 +1,38 @@
 <h1 align="center">Hi there, I'm Martyna 🤍</h1> 
 
 # 🤍 About Me:
-I'm a third-year Computer Science student at AGH University. Passionate about technology, creativity, and continuous learning, I have a diverse set of skills and experiences that I love to share and grow.<br><br>🖥️ Technical Skills<br>- **Programming Languages**: Java, Python C++, C, C#, <br>- **Web Development**: JavaScript, TypeScript, PHP, MySQL<br>- **Currently Learning**: DevOps  <br><br>🎨 Creative Involvements<br>- **Graphic Design**: Active graphic designer with IAESTE AGH, contributing to various projects and events.<br>  - **WAR (Wiosenna Akcja Rekrutacyjna 2024)**: Part of the organizing team.<br>  - **Lvl Up Your Skills 2024**: CPart of the organizing team.<br>  - **Event Designs**: Created designs for various occasions, including New Year's Eve.<br><br>🌸 Other Interests<br>- **Music**: I play the piano and sing.<br>- **Art**: I enjoy drawing, both traditionally and digitally.<br>- **Literature**: Passionate about reading, especially fantasy, young adult, and classic literature.<br>
+I'm a third-year Computer Science in Engineering student at AGH University. Passionate about technology, creativity, and continuous learning, I have a diverse set of skills and experiences that I love to share and grow.<br><br>
+
+🖥️ Technical Skills<br>
+- **Programming Languages**: Java, Python, C++, C, C#<br>
+- **Web Development**: JavaScript, TypeScript, PHP, MySQL<br>
+- **Frameworks & Technologies**:<br>
+  - **Java**: Spring, Spring Boot, Hibernate<br>
+  - **Databases**: MySQL, PostgreSQL, SQLite<br>
+  - **Testing & Automation**: Selenium, WebDriver, software testing methodologies<br>
+- **Currently Learning**: DevOps<br><br>
+
+# 🎨 Creative Involvements<br>
+- **Graphic Design**: Active graphic designer with IAESTE AGH, contributing to various projects and events.<br>  
+  - **WAR (Wiosenna Akcja Rekrutacyjna 2024)**: Part of the organizing team.<br>  
+  - **Lvl Up Your Skills 2024**: Part of the organizing team.<br>  
+  - **Event Designs**: Created designs for various occasions, including New Year's Eve.<br><br>
+
+# 🌸 Other Interests<br>
+- **Music**: I play the piano and sing.<br>
+- **Art**: I enjoy drawing, both traditionally and digitally.<br>
+- **Literature**: Passionate about reading, especially fantasy, young adult, and classic literature.<br>
+
 
 
 # 🤍 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%23000000.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-%23007D8F.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%232F73B5.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -20,6 +45,7 @@ I'm a third-year Computer Science student at AGH University. Passionate about te
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) 
+![WebDriver](https://img.shields.io/badge/WebDriver-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
