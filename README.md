@@ -3,7 +3,7 @@
 # 🤍 About Me:
 I'm a third-year Computer Science in Engineering student at AGH University. Passionate about technology, creativity, and continuous learning, I have a diverse set of skills and experiences that I love to share and grow.<br><br>
 
-🖥️ Technical Skills<br>
+# 🖥️ Technical Skills<br>
 - **Programming Languages**: Java, Python, C++, C, C#<br>
 - **Web Development**: JavaScript, TypeScript, PHP, MySQL<br>
 - **Frameworks & Technologies**:<br>
