@@ -9,7 +9,7 @@ I'm a third-year Computer Science in Engineering student at AGH University. Pass
 - **Frameworks & Technologies**:<br>
   - **Java**: Spring, Spring Boot, Hibernate<br>
   - **Databases**: MySQL, PostgreSQL, SQLite<br>
-  - **Testing & Automation**: Selenium, WebDriver, software testing methodologies<br>
+  - **Testing & Automation**: Selenium, Selenide, WebDriver, software testing methodologies<br>
 - **Currently Learning**: DevOps<br><br>
 
 # 🎨 Creative Involvements<br>
@@ -45,6 +45,7 @@ I'm a third-year Computer Science in Engineering student at AGH University. Pass
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) 
+![Selenide](https://img.shields.io/badge/selenide-%2300A9E0.svg?style=for-the-badge&logo=selenide&logoColor=white) 
 ![WebDriver](https://img.shields.io/badge/WebDriver-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
