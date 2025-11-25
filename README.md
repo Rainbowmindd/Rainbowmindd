@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Martyna 🤍</h1>
 
 ## 🤍 About Me
-I'm a third-year Computer Science in Engineering student at AGH University. I’m passionate about software development, problem-solving, and combining technology with creativity.  
+I'm a fourth-year Computer Science in Engineering student at AGH University. I’m passionate about software development, problem-solving, and combining technology with creativity.  
 Currently focused on backend development, test automation, and learning DevOps & cloud technologies.
 
 <p align="center">
