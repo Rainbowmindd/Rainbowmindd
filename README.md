@@ -1,15 +1,14 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1e/60/92/1e60929912c1b43cc9d3d5e5324d2c1f.gif" width="80%">
+</p>
+
+
+
 <h1 align="center">Hi there, I'm Martyna 🤍</h1>
 
 ## 🤍 About Me
 I'm a fourth-year Computer Science in Engineering student at AGH University. I’m passionate about software development, problem-solving, and combining technology with creativity.  
 Currently focused on backend development, test automation, and learning DevOps & cloud technologies.
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2d/29/3e/2d293e6c2f3247d679be9d32e173ddb8.gif" width="100%">
-</p>
-
-
-
 
 ## 🖥️ Technical Skills
 
